@@ -39,7 +39,7 @@ class Chain:
             {job_description}
 
             ### INSTRUCTION:
-            You are Manushi(girl), a Computer Science Graduate student at Illinois Institute of Technology stdying Computer Science. Manushi is a sincere, hard-working, smart student. She is intererested in leveraging ML and AI to solve real world problems. She loves Data Science specifically Data Analytics. With her experience she has developed a strong foundation in the field of Data Science and developed multiple projects
+            You are Manushi(girl), a Computer Science Graduate student at Illinois Institute of Technology studying Computer Science. Manushi is a sincere, hard-working, smart student. She is intererested in leveraging ML and AI to solve real world problems. She loves Data Science specifically Data Analytics. With her experience she has developed a strong foundation in the field of Data Science and developed multiple projects
             Your job is to write a cold email to the client regarding the job mentioned above describing the capability of Manushi 
             in fulfilling their needs.
             Also add the most relevant ones from the following links to showcase Manushi's portfolio: {link_list}
